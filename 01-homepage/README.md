@@ -1,4 +1,4 @@
-# Project 0 - Homepage
+# Project 01 - Homepage
 
 [![HTML5 Specification](https://img.shields.io/badge/specification-HTML5-E54C21.svg)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![Bootstrap Library](https://img.shields.io/badge/library-Bootstrap-8E44AD.svg)](http://getbootstrap.com/)
