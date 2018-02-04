@@ -27,6 +27,7 @@ This is a collection of projects specified in the Harvard Extension School's [We
 [The MIT License (MIT)](https://opensource.org/licenses/MIT)
 
 ````
+Copyright (c) 2018 CS50.
 Copyright (c) 2018 Solange Umuhire Gasengayire.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
