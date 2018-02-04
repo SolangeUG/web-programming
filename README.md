@@ -1,6 +1,6 @@
 # Web Programming
 
-[![MIT License](https://img.shields.io/badge/license-MIT%20License-green.svg)](https://github.com/SolangeUG/blog-application/blob/master/LICENSE)
+[![MIT License](https://img.shields.io/badge/license-MIT%20License-green.svg)](https://github.com/SolangeUG/web-programming/blob/master/LICENSE)
 [![Python Language](https://img.shields.io/badge/language-python-4280B1.svg)](https://python.org)
 [![JavaScript Language](https://img.shields.io/badge/language-JavaScript-F4D03F.svg)](https://www.javascript.com/)
 
@@ -16,7 +16,7 @@ This is a collection of projects specified in the Harvard Extension School's [We
 
 ## Projects
 
-- [Homepage](https://cs50.github.io/web/projects/0)
+1. [Homepage](https://cs50.github.io/web/projects/0)
 
 ## Resources
 
