@@ -120,3 +120,17 @@ body {
 #footer {
 	margin-bottom: -2px;
 }
+
+/********************
+ *  Specific Pages  *
+ ********************/
+
+#aboutPage{
+  background-image: url("../assets/coffee-02.jpeg");
+  background-size: 1920px 1080px;
+	background-position: 0px 0px;
+}
+
+#aboutDetail {
+  margin-top: -20em;
+}
