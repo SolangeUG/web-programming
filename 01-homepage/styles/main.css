@@ -28,7 +28,7 @@ html,
 body {
   height: 100%;
 	width: 100%;
-	background-image: url("../assets/coffee.jpeg");
+	background-image: url("../assets/coffee-01.jpeg");
 	background-size: 2320px 1520px;
 	background-position: -300px -40px;
 }
@@ -46,8 +46,8 @@ body {
 }
 
 .cover-container {
-	min-width: 60em;
-  max-width: 64em;
+	min-width: 64em;
+  max-width: 70em;
 }
 
 
@@ -59,12 +59,13 @@ body {
 }
 
 .masthead-brand {
-  margin-bottom: 0;
+  margin-bottom: 1em;
 	font-size: 4em;
 }
 
 .nav-masthead .nav-link {
   padding: .25rem 0;
+  margin-right: 10px;
   font-weight: 700;
   color: rgba(255, 255, 255, .5);
   background-color: transparent;
@@ -133,4 +134,10 @@ body {
 
 #aboutDetail {
   margin-top: -20em;
+}
+
+#contactPage {
+  background-image: url("../assets/coffee-04.jpeg");
+  background-size: 100% 100%;
+	background-position: 0px 0px;
 }
