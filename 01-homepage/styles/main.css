@@ -1,12 +1,12 @@
-/************
- *  Globals *
- ************/
+/*********************
+ *      Globals      *
+ *********************/
 
 /* Links */
 a,
 a:focus,
 a:hover {
-  color: #fff;
+  color: #FFF;
 }
 
 /* Custom default button */
@@ -15,8 +15,8 @@ a:hover {
 .btn-secondary:focus {
   color: #333;
   text-shadow: none; /* Prevent inheritance from `body` */
-  background-color: #fff;
-  border: .05rem solid #fff;
+  background-color: #FFF;
+  border: .05rem solid #FFF;
 }
 
 
@@ -40,7 +40,7 @@ body {
   -ms-flex-pack: center;
   -webkit-box-pack: center;
   justify-content: center;
-  color: #fff;
+  color: #FFF;
   text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
   box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
 }
@@ -51,9 +51,9 @@ body {
 }
 
 
-/************
- *  Header  *
- ************/
+/*******************
+ *  Header Element *
+ *******************/
 .masthead {
   margin-bottom: 2rem;
 }
@@ -82,8 +82,8 @@ body {
 }
 
 .nav-masthead .active {
-  color: #fff;
-  border-bottom-color: #fff;
+  color: #FFF;
+  border-bottom-color: #FFF;
 }
 
 @media (min-width: 48em) {
@@ -96,9 +96,9 @@ body {
 }
 
 
-/**********
- *  Cover *
- **********/
+/********************
+ *  Cover Component *
+ ********************/
 .cover {
   padding: 0 1.5rem;
 	margin-right: 20px;
@@ -107,45 +107,21 @@ body {
   padding: .75rem 1.25rem;
   font-weight: 700;
 }
+
 .lead {
 	margin-bottom: 40px;
 }
 
 
-/************
- *  Footer  *
- ************/
+/*******************
+ *  Footer Element *
+ *******************/
 .mastfoot {
   color: rgba(255, 255, 255, .5);
-}
-#footer {
-	margin-bottom: -2px;
-}
-
-/********************
- *  Specific Pages  *
- ********************/
-
-#aboutPage{
-  background-image: url("../assets/coffee-02.jpeg");
-  background-size: 1920px 1080px;
-	background-position: 0px 0px;
 }
 
 #aboutDetail {
   margin-top: -20em;
-}
-
-#menuPage {
-  background-image: url("../assets/coffee-03.jpeg");
-  background-size: 100% 130%;
-	background-position: 0px 0px;
-}
-
-#contactPage {
-  background-image: url("../assets/coffee-04.jpeg");
-  background-size: 100% 100%;
-	background-position: 0px 0px;
 }
 
 #contactContainer {
