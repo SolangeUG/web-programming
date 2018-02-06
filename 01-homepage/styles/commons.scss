@@ -1,6 +1,12 @@
 // use of a variable
 $backgroundPosition: 0px 0px;
 
+#indexPage {
+	background-image: url("../assets/coffee-01.jpeg");
+	background-size: 2320px 1520px;
+	background-position: -300px -40px;
+}
+
 #aboutPage {
   background-image: url("../assets/coffee-02.jpeg");
   background-size: 1920px 1080px;
@@ -8,9 +14,7 @@ $backgroundPosition: 0px 0px;
 }
 
 #menuPage {
-  background-image: url("../assets/coffee-03.jpeg");
-  background-size: 100% 130%;
-	background-position: $backgroundPosition;
+	background-color: #333;
 }
 
 #contactPage {

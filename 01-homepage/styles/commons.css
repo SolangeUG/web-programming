@@ -1,12 +1,15 @@
+#indexPage {
+  background-image: url("../assets/coffee-01.jpeg");
+  background-size: 2320px 1520px;
+  background-position: -300px -40px; }
+
 #aboutPage {
   background-image: url("../assets/coffee-02.jpeg");
   background-size: 1920px 1080px;
   background-position: 0px 0px; }
 
 #menuPage {
-  background-image: url("../assets/coffee-03.jpeg");
-  background-size: 100% 130%;
-  background-position: 0px 0px; }
+  background-color: #333; }
 
 #contactPage {
   background-image: url("../assets/coffee-04.jpeg");
