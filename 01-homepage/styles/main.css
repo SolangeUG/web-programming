@@ -28,9 +28,6 @@ html,
 body {
   height: 100%;
 	width: 100%;
-	background-image: url("../assets/coffee-01.jpeg");
-	background-size: 2320px 1520px;
-	background-position: -300px -40px;
 }
 
 body {
@@ -110,6 +107,10 @@ body {
 
 .lead {
 	margin-bottom: 40px;
+}
+
+.figure-caption {
+  color: #FFF;
 }
 
 
