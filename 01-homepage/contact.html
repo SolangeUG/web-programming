@@ -9,6 +9,8 @@
 
 		<!-- favicon -->
 		<link rel="icon" href="./assets/favicon.ico">
+		<!-- My own script -->
+		<script type="text/javascript" src="./scripts/main.js"></script>
 
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet"
@@ -44,15 +46,45 @@
 		        <p class="lead">
 							Sale and tasting of coffees and teas of all origins.
 						</p>
-						<div>
+
+						<div id="contactContainer">
+							<!-- contact form -->
+							<form class="text-justify" id="contactForm">
+							  <div class="form-group">
+							    <label for="name" class="font-weight-bold">First and last name</label>
+							    <input type="text" class="form-control">
+							  </div>
+							  <div class="form-group">
+							    <label for="email" class="font-weight-bold">Email address</label>
+							    <input type="email" class="form-control">
+							  </div>
+							  <div class="form-group">
+							    <label for="message" class="font-weight-bold">Message</label>
+							    <textarea class="form-control" rows="8"></textarea>
+							  </div>
+								<p class="lead text-center">
+									<a  href="#" onclick="showConfirmation();"
+											class="btn btn-lg btn-secondary">
+											Send
+									</a>
+								</p>
+							</form>
+
+							<!-- confirmation alert -->
+							<div class="alert alert-success text-justify" role="alert" id="contactAlert">
+							  <h4 class="alert-heading">Thank You!</h4>
+							  <p>
+									Your message has been successfully sent.
+									We appreciate that you’ve taken the time to write us.
+									We’ll get back to you very soon. Please come back and see us often.
+								</p>
+							  <hr>
+							  <p class="mb-0">
+									For urgent enquiries please don't hesitate to call us on this number +32.4.343.56.85.
+								</p>
+							</div>
 
 						</div>
-		        <p class="lead">
-		          <a href="#"
-									class="btn btn-lg btn-secondary">
-									Send
-							</a>
-		        </p>
 					</div>
 				</div>
       </main>
