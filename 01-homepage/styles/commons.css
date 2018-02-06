@@ -1,0 +1,29 @@
+#aboutPage {
+  background-image: url("../assets/coffee-02.jpeg");
+  background-size: 1920px 1080px;
+  background-position: 0px 0px; }
+
+#menuPage {
+  background-image: url("../assets/coffee-03.jpeg");
+  background-size: 100% 130%;
+  background-position: 0px 0px; }
+
+#contactPage {
+  background-image: url("../assets/coffee-04.jpeg");
+  background-size: 100% 100%;
+  background-position: 0px 0px; }
+
+.cover {
+  padding: 0 1.5rem;
+  margin-right: 20px; }
+  .cover .btn-lg {
+    padding: .75rem 1.25rem;
+    font-weight: 700; }
+
+.caf-footer, .about-footer {
+  margin-bottom: -2px; }
+
+.about-footer {
+  margin-left: 24em; }
+
+/*# sourceMappingURL=commons.css.map */
