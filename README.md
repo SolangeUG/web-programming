@@ -17,6 +17,7 @@ This is a collection of projects specified in the Harvard Extension School's [We
 ## Projects
 
 1. [Homepage](https://github.com/SolangeUG/web-programming/tree/master/01-homepage)
+2. [Books](https://github.com/SolangeUG/web-programming/tree/master/02-books)
 
 ## Resources
 
