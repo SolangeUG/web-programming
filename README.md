@@ -13,6 +13,9 @@ This is a collection of projects specified in the Harvard Extension School's [We
 - [Bootstrap](https://getbootstrap.com/)
 - [Sass](https://sass-lang.com/)
 - Any code/text editor ([atom](https://atom.io/)) or IDE ([PyCharm](https://www.jetbrains.com/pycharm/download)) of your choice.
+- [Flask](http://flask.pocoo.org/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Heroku](https://www.heroku.com/)
 
 ## Projects
 
